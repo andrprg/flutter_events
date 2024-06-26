@@ -1,0 +1,30 @@
+[
+    {
+        "id": "free",
+        "title": "Бесплатно",
+        "min": 0,
+        "max": 0,
+        "sortOrder": 100
+    },
+    {
+        "id": "lt1000",
+        "title": "до  1000 ₽",
+        "min": 0,
+        "max": 1000,
+        "sortOrder": 200
+    },
+    {
+        "id": "lt5000",
+        "title": "до 5000 ₽",
+        "min": 0,
+        "max": 5000,
+        "sortOrder": 300
+    },
+    {
+        "id": "gt5000",
+        "title": "5000+ ₽",
+        "min": 5001,
+        "max": 2147483647,
+        "sortOrder": 400
+    }
+]

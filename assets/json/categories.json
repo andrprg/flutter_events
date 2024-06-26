@@ -1,0 +1,156 @@
+[
+    {
+        "id": 460,
+        "title": "Концерты",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/7dd48746-935f-4c46-8658-affe11e0eaea/",
+        "eventsCount": 272
+    },
+    {
+        "id": 525,
+        "title": "Искусство и культура",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/fd6de689-863b-4a81-807d-2f31f4148a0a/",
+        "eventsCount": 689
+    },
+    {
+        "id": 461,
+        "title": "Экскурсии и путешествия",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/ef784b10-bea3-420c-8ba4-a64a75388b35/",
+        "eventsCount": 617
+    },
+    {
+        "id": 457,
+        "title": "Вечеринки",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/60ae4ae6-878a-4a46-a686-6a35e1dc0a41/",
+        "eventsCount": 117
+    },
+    {
+        "id": 379,
+        "title": "Для детей",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/130f2146-c845-477b-a753-d0c15aaf9b2f/",
+        "eventsCount": 323
+    },
+    {
+        "id": 459,
+        "title": "Театры",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/63e01131-dd05-4f77-87d7-fe3b46913aff/",
+        "eventsCount": 177
+    },
+    {
+        "id": 217,
+        "title": "Бизнес",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/f018e9c7-849b-462e-bdf2-ce61b3d8549e/",
+        "eventsCount": 517
+    },
+    {
+        "id": 453,
+        "title": "Психология и самопознание",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/0aa5adb7-412e-4dab-9aaf-95116dca1407/",
+        "eventsCount": 323
+    },
+    {
+        "id": 2465,
+        "title": "Наука",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/ccb2ac5c-29ef-4f6c-b0a9-e253c5308d9d/",
+        "eventsCount": 111
+    },
+    {
+        "id": 452,
+        "title": "ИТ и интернет",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/1a956bf3-509b-4845-93ce-d4caedc15634/",
+        "eventsCount": 100
+    },
+    {
+        "id": 462,
+        "title": "Другие события",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/ccb4f4a9-76b9-4422-bc18-cc6b04575965/",
+        "eventsCount": 222
+    },
+    {
+        "id": 376,
+        "title": "Спорт",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/d2aa2b30-b182-4156-82d4-bf4d3dbea1e0/",
+        "eventsCount": 91
+    },
+    {
+        "id": 458,
+        "title": "Выставки",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/b4a2d8e1-1367-4765-b5c4-f02baef57774/",
+        "eventsCount": 89
+    },
+    {
+        "id": 2335,
+        "title": "Интеллектуальные игры",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/fdf57e68-3ecf-46a1-aca6-f04420237bfc/",
+        "eventsCount": 127
+    },
+    {
+        "id": 524,
+        "title": "Хобби и творчество",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/fcbf7eb1-0bb8-4637-9b99-d5c919d3cee7/",
+        "eventsCount": 213
+    },
+    {
+        "id": 374,
+        "title": "Кино",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/f8959227-6dc5-466b-88ab-bf212cebbaa3/",
+        "eventsCount": 113
+    },
+    {
+        "id": 463,
+        "title": "Другие развлечения",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/0cf076f0-3832-46dd-ba8c-2eca6c347cfc/",
+        "eventsCount": 64
+    },
+    {
+        "id": 399,
+        "title": "Красота и здоровье",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/2e3b61c5-3aa6-47b5-ae48-fc8a5e0a9f86/",
+        "eventsCount": 75
+    },
+    {
+        "id": 456,
+        "title": "Еда",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/c07d73cb-945d-4aa6-91c9-6f1b1180eabf/",
+        "eventsCount": 44
+    },
+    {
+        "id": 382,
+        "title": "Иностранные языки",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/b5e0cb5d-95eb-4751-9b08-b0dbea05da75/",
+        "eventsCount": 84
+    },
+    {
+        "id": 1940,
+        "title": "Гражданские проекты",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/f5ef0255-433d-4240-8dbb-5c31c1895117/",
+        "eventsCount": 34
+    },
+    {
+        "id": 1315,
+        "title": "Образование за рубежом",
+        "description": "",
+        "imageUrl": "https://ucare.timepad.ru/70ed1a93-0f0f-4056-b19c-bef45b3e8f70/",
+        "eventsCount": 2
+    }
+]

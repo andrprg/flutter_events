@@ -1,0 +1,2003 @@
+{
+    "count": 2577,
+    "remaining": 2553,
+    "list": [
+        {
+            "id": "2935242",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "8181",
+            "title": "Семейный профнавигатор",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 10:00:00",
+            "endDate": "2024-06-25 12:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://tsentr-professii-budushch.timepad.ru/event/oferta/2935242/",
+            "allowRegistration": true,
+            "categories": [
+                "462"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "г. Москва, ул. Щепкина, д. 38, с.1 Центр \"Профессии будущего\"",
+                "text": "Москва, г. Москва, ул. Щепкина, д. 38, с.1 Центр \"Профессии будущего\"",
+                "lat": "55.781514",
+                "lon": "37.630661"
+            },
+            "contact_phone": "+79265264259",
+            "organization": {
+                "id": "381166",
+                "logo": "https://ucare.timepad.ru/3ae86518-f8f2-41c9-a6db-a594545e6501/-/preview/308x600/-/format/jpeg/",
+                "name": "Центр «Профессии будущего»",
+                "description": "В кадровом центре «Профессии будущего» представлены 75 коротких программ обучения для взрослых от лучших образовательных провайдеров города, проактивная помощь в быстром трудоустройстве по новой востребованной профессии, а для учащихся 9 классов – сервисы по профтестированию.",
+                "pdAddress": "г. Москва, ул. Щепкина, д. 38, стр. 1",
+                "pdEmail": "future@social.mos.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "09:00 - 20:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/8080d280-63b3-44c4-8460-b5a5b7662318/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_381166.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/mosfuture"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/futuremos"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://mosfuture.ru/"
+                    }
+                ],
+                "subscribers": 0,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79265264259"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "6"
+        },
+        {
+            "id": "2908864",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "6486",
+            "title": "Единый день приема документов",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 10:00:00",
+            "endDate": "2024-06-29 17:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://mfua.timepad.ru/event/oferta/2908864/",
+            "allowRegistration": true,
+            "categories": [
+                "458",
+                "462"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "ул. Введенского, д. 1А",
+                "text": "Москва, ул. Введенского, д. 1А",
+                "lat": "55.648280",
+                "lon": "37.549777"
+            },
+            "contact_phone": "+74952211001",
+            "organization": {
+                "id": "13610",
+                "logo": "https://ucare.timepad.ru/4eb25e13-ee4c-4f0c-90db-ddc466402a4e/-/preview/308x600/-/format/jpeg/",
+                "name": "МФЮА",
+                "description": "Московский финансово-юридический университет МФЮА – научно-образовательный комплекс по подготовке специалистов для современного рынка труда. В МФЮА реализуется система интегрированного образования от школьной скамьи до ученой степени, подкрепленная качественной научно-практической базой и мощным имущественным комплексом. МФЮА имеет лицензию на осуществление образовательной деятельности и государственную аккредитацию. Ежегодно вузу выделяются бюджетные места на самые востребованные специальности.",
+                "pdAddress": "115191, г Москва, ул Серпуховский Вал, д 17 к 1",
+                "pdEmail": "karzinkin.d@mfua.ru",
+                "inn": "7725082902",
+                "ogrn": "1027739751346",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/mfua_mos"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/mfua.ru"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/info_MFUA"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/mfua_life/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://www.mfua.ru/"
+                    }
+                ],
+                "subscribers": 40,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74952211001"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "12"
+        },
+        {
+            "id": "2897733",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "4926",
+            "title": "Тренинг: \"Эмоциональный интеллект\" модуль 1",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 10:00:00",
+            "endDate": "2024-06-25 13:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://mycareermoscow.timepad.ru/event/oferta/2897733/",
+            "allowRegistration": true,
+            "categories": [
+                "453"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "м. Площадь Ильича (Римская), ул. Сергия Радонежского дом 1 стр. 1., в центре ГБУ «Моя карьера»",
+                "text": "Москва, м. Площадь Ильича (Римская), ул. Сергия Радонежского дом 1 стр. 1., в центре ГБУ «Моя карьера»",
+                "lat": "55.747039",
+                "lon": "37.670798"
+            },
+            "contact_phone": "+74958704444",
+            "organization": {
+                "id": "142607",
+                "logo": "https://ucare.timepad.ru/827072d6-6469-43ef-bc54-b58298cca75b/-/preview/308x600/-/format/jpeg/",
+                "name": "ГБУ «Моя карьера»",
+                "description": "",
+                "pdAddress": "ул. Сергия Радонежского, 1с1",
+                "pdEmail": "mycareer@mos.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/86df5a8a-d508-4312-bf02-3dcfa1845275/-/format/jpeg/poster_org_142607.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/mycareer.moscow"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/mycareermoscow"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://mycareer.moscow/"
+                    }
+                ],
+                "subscribers": 498,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74958704444"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2916022",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "945",
+            "title": "4fresh DAY 29 июня",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 10:00:00",
+            "endDate": "2024-06-29 20:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://4freshday.timepad.ru/event/oferta/2916022/",
+            "allowRegistration": true,
+            "categories": [
+                "399"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Мытная ул., 74",
+                "text": "Москва, Мытная ул., 74",
+                "lat": "55.712117",
+                "lon": "37.620555"
+            },
+            "contact_phone": "+79645782233",
+            "organization": {
+                "id": "374412",
+                "logo": "https://ucare.timepad.ru/b20bb065-2fc7-490b-9e9d-771eea4e7a64/-/preview/308x600/-/format/jpeg/",
+                "name": "4fresh Neomarket",
+                "description": "Мы не типичный интернет-магазин, не маркетплейс. Мы — неомаркет и мы предлагаем комплексные решения под ваши запросы, которые включают консультации экспертов, полезные статьи, стримы и марафоны на важные темы.\n\nУ нас большой маркет продуктов, отобранных советами сотен нутрициологов, докторов, health-коучей, тренеров и специалистов других сфер. Благодаря этому мы уверены в безопасности и эффективности состава любого продукта из нашего ассортимента!\n\nНо кроме проверки составов мы всё пробуем сами — собираем продуктовый комитет, дегустируем и коллективно решаем, хотим ли мы предлагать какой-либо продукт нашим клиентам или нет.\n\nОнлайн-неомаркет 4fresh — это огромное сообщество людей, которые делают выбор в пользу здоровья, осознанности и любви к себе.",
+                "pdAddress": "117342, г Москва, ул Бутлерова, д 17, ком 157, 157",
+                "pdEmail": "ailchenko@rehub.cc",
+                "inn": "7728475669",
+                "ogrn": "1197746390478",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/241a8301-958f-4e3b-9f2b-7a0efdb37e93/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_374412.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/4fresh"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/vsebudet4fresh"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://4fresh.ru/"
+                    }
+                ],
+                "subscribers": 7,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79645782233"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2923906",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "657",
+            "title": "Фильм «Не было печали», 1982. (к/т «Иллюзион», Большой зал)",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 10:00:00",
+            "endDate": "2024-06-25 11:10:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://gosfilmofond-org.timepad.ru/event/oferta/2923906/",
+            "allowRegistration": true,
+            "categories": [
+                "374"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Котельническая наб., 1/15",
+                "text": "Москва, Котельническая наб., 1/15",
+                "lat": "55.747135",
+                "lon": "37.642815"
+            },
+            "contact_phone": "+74959154353",
+            "organization": {
+                "id": "171526",
+                "logo": "https://ucare.timepad.ru/4f2436ae-2b15-4673-b4d3-cb1326c04fdf/-/preview/308x600/-/format/jpeg/",
+                "name": "Госфильмофонд РФ / Кинотеатр «Иллюзион»",
+                "description": "",
+                "pdAddress": "просп. Госфильмофонда, 4, Белые Столбы, Московская обл., 142050",
+                "pdEmail": "press@gff-rf.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 23:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/illuzion_cinema"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/s/gosfilmofond"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "http://illuzion-cinema.ru/"
+                    }
+                ],
+                "subscribers": 756,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74959154353"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "12"
+        },
+        {
+            "id": "2937499",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "63",
+            "title": "ОТКРЫТАЯ ПРАКТИКА ЙОГИ В СТИЛЕ FYSM С ПАВЛОМ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 10:00:00",
+            "endDate": "2024-06-29 11:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://4freshday.timepad.ru/event/oferta/2937499/",
+            "allowRegistration": true,
+            "categories": [
+                "376"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Мытная ул., 74",
+                "text": "Москва, Мытная ул., 74",
+                "lat": "55.712117",
+                "lon": "37.620555"
+            },
+            "contact_phone": "+79645782233",
+            "organization": {
+                "id": "374412",
+                "logo": "https://ucare.timepad.ru/b20bb065-2fc7-490b-9e9d-771eea4e7a64/-/preview/308x600/-/format/jpeg/",
+                "name": "4fresh Neomarket",
+                "description": "Мы не типичный интернет-магазин, не маркетплейс. Мы — неомаркет и мы предлагаем комплексные решения под ваши запросы, которые включают консультации экспертов, полезные статьи, стримы и марафоны на важные темы.\n\nУ нас большой маркет продуктов, отобранных советами сотен нутрициологов, докторов, health-коучей, тренеров и специалистов других сфер. Благодаря этому мы уверены в безопасности и эффективности состава любого продукта из нашего ассортимента!\n\nНо кроме проверки составов мы всё пробуем сами — собираем продуктовый комитет, дегустируем и коллективно решаем, хотим ли мы предлагать какой-либо продукт нашим клиентам или нет.\n\nОнлайн-неомаркет 4fresh — это огромное сообщество людей, которые делают выбор в пользу здоровья, осознанности и любви к себе.",
+                "pdAddress": "117342, г Москва, ул Бутлерова, д 17, ком 157, 157",
+                "pdEmail": "ailchenko@rehub.cc",
+                "inn": "7728475669",
+                "ogrn": "1197746390478",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/241a8301-958f-4e3b-9f2b-7a0efdb37e93/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_374412.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/4fresh"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/vsebudet4fresh"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://4fresh.ru/"
+                    }
+                ],
+                "subscribers": 7,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79645782233"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2926849",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "303",
+            "title": "Фильм «Музыка Сибири», 2022. (к/т «Иллюзион», Малый зал)",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 10:30:00",
+            "endDate": "2024-06-25 11:47:00",
+            "minPrice": null,
+            "maxPrice": null,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://gosfilmofond-org.timepad.ru/event/oferta/2926849/",
+            "allowRegistration": false,
+            "categories": [
+                "374"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Котельническая наб., 1/15",
+                "text": "Москва, Котельническая наб., 1/15",
+                "lat": "55.747135",
+                "lon": "37.642815"
+            },
+            "contact_phone": "+74959154353",
+            "organization": {
+                "id": "171526",
+                "logo": "https://ucare.timepad.ru/4f2436ae-2b15-4673-b4d3-cb1326c04fdf/-/preview/308x600/-/format/jpeg/",
+                "name": "Госфильмофонд РФ / Кинотеатр «Иллюзион»",
+                "description": "",
+                "pdAddress": "просп. Госфильмофонда, 4, Белые Столбы, Московская обл., 142050",
+                "pdEmail": "press@gff-rf.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 23:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/illuzion_cinema"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/s/gosfilmofond"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "http://illuzion-cinema.ru/"
+                    }
+                ],
+                "subscribers": 756,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74959154353"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "12"
+        },
+        {
+            "id": "2909051",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "39450",
+            "title": "Летний кинолагерь с Союзмультфильмом в Москино Спутник 25 июня в 11:00  ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": null,
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://set-kinoteatrov-moskino.timepad.ru/event/oferta/2909051/",
+            "allowRegistration": true,
+            "categories": [
+                "374"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Солдатская ул., д. 15",
+                "text": "Москва, Солдатская ул., д. 15",
+                "lat": "55.764364",
+                "lon": "37.705580"
+            },
+            "contact_phone": "+74959519420",
+            "organization": {
+                "id": "102178",
+                "logo": "https://ucare.timepad.ru/11a14ee4-6d44-495d-92cb-b85b4e1bc5e3/",
+                "name": "Москино",
+                "description": "Сеть городских кинотеатров, фестивали и проекты в области кино.",
+                "pdAddress": "ул. Пятницкая 2/38, стр.1",
+                "pdEmail": "pr@mos-kino.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 347,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74959519420"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "0"
+        },
+        {
+            "id": "2923242",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "18175",
+            "title": "Презентация \"Оценка внешней среды развития НКО\"",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": "2024-06-25 13:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://blagosfera.timepad.ru/event/oferta/2923242/",
+            "allowRegistration": true,
+            "categories": [
+                "462"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "1-й Боткинский проезд, 7, стр.1",
+                "text": "Москва, 1-й Боткинский проезд, 7, стр.1",
+                "lat": "55.784931",
+                "lon": "37.557259"
+            },
+            "contact_phone": "+79777274846",
+            "organization": {
+                "id": "68265",
+                "logo": "https://ucare.timepad.ru/22c9a68a-7df4-4e4d-814a-4fab37d2f1f2/",
+                "name": "Благосфера",
+                "description": "Благосфера – городская площадка для обмена социальным опытом и знаниями. Мы расширяем связи между сообществами, НКО и горожанами, чтобы помочь им реализовать идеи, найти единомышленников, ресурсы и доступ к технологиям.",
+                "pdAddress": "г Москва, проезд Боткинский 1-й, д 7 стр 1",
+                "pdEmail": "info@blagosfera.space",
+                "inn": "7702397279",
+                "ogrn": "1167700051628",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 120,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79777274846"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2934319",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "4721",
+            "title": "Design Summer Fest ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 11:00:00",
+            "endDate": "2024-06-30 20:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://ip-siver-ekaterina-viktor.timepad.ru/event/oferta/2934319/",
+            "allowRegistration": true,
+            "categories": [
+                "457"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "улица Смоленская, 7",
+                "text": "Москва, улица Смоленская, 7",
+                "lat": "55.745199",
+                "lon": "37.578352"
+            },
+            "contact_phone": "+79254604500",
+            "organization": {
+                "id": "354569",
+                "logo": "https://ucare.timepad.ru/ee84a290-f864-42e3-b4cb-275c88919298/-/preview/308x600/-/format/jpeg/",
+                "name": "ИП Сивер Екатерина Викторовна",
+                "description": "",
+                "pdAddress": "119048, Москва г, вн.тер.г. Хамовники, ул Усачёва, д. 11, \nкв. 5А",
+                "pdEmail": "m.skorohodova@fifthavenue-atelier.com",
+                "inn": "503825274869",
+                "ogrn": "319505000030289",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://instagram.com/designcafe.ru"
+                    }
+                ],
+                "subscribers": 0,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79254604500"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "0"
+        },
+        {
+            "id": "2892408",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "955",
+            "title": "Концерт. Зачет по вокалу студентов 2 курса  бакалавриата \"Музыка (вокальное искусство)\" ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": "2024-06-25 13:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://institut-kultury-i-iskuss.timepad.ru/event/oferta/2892408/",
+            "allowRegistration": true,
+            "categories": [
+                "460"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "улица Марии Ульяновой, д.21",
+                "text": "Москва, улица Марии Ульяновой, д.21",
+                "lat": "55.679529",
+                "lon": "37.520509"
+            },
+            "contact_phone": "+74991333570",
+            "organization": {
+                "id": "82967",
+                "logo": null,
+                "name": "Институт культуры и искусств ГАОУ ВО МГПУ",
+                "description": "",
+                "pdAddress": "129226, Центральный федеральный округ, город федерального значения Москва, 2-й Сельскохозяйственный проезд, дом 4, корпус 1",
+                "pdEmail": "Lavrentiva@mgpu.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 125,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74991333570"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2926538",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "866",
+            "title": "Обучающий семинар по продажам ОС Аврора и платформы управления Аврора Центр",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": "2024-06-25 17:00:00",
+            "minPrice": null,
+            "maxPrice": null,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://auroraos.timepad.ru/event/oferta/2926538/",
+            "allowRegistration": false,
+            "categories": [
+                "217"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Проспект Вернадского. дом 41, Бизнес-Центр \"Академик\", 4 этаж",
+                "text": "Москва, Проспект Вернадского. дом 41, Бизнес-Центр \"Академик\", 4 этаж",
+                "lat": "55.674590",
+                "lon": "37.503468"
+            },
+            "contact_phone": "+79260010706",
+            "organization": {
+                "id": "378288",
+                "logo": "https://ucare.timepad.ru/b4b55b30-41db-4679-93ce-41a51a19aecd/-/preview/308x600/-/format/jpeg/",
+                "name": "Аврора",
+                "description": "Компания \"Открытая мобильная платформа\" (\"ОМП\") - российский разработчик мобильной платформы Аврора (операционная система \"Аврора\" + платформа управления \"Аврора Центр\")\n",
+                "pdAddress": "г. Иннополис, ул. Университетская, д.7, офис 59",
+                "pdEmail": "info@omp.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/omp_ru"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/omp_ru"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://auroraos.ru"
+                    }
+                ],
+                "subscribers": 0,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79260010706"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "0"
+        },
+        {
+            "id": "2934688",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "382",
+            "title": "Полевое обучение для новичков в Измайловском парке",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 11:00:00",
+            "endDate": "2024-06-29 16:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://novichkovayala.timepad.ru/event/oferta/2934688/",
+            "allowRegistration": true,
+            "categories": [
+                "1940"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Ст. МЦК \"Соколиная гора\", Измайловский парк культуры и отдыха, аллея Большого круга, 55.771022, 37.755706",
+                "text": "Москва, Ст. МЦК \"Соколиная гора\", Измайловский парк культуры и отдыха, аллея Большого круга, 55.771022, 37.755706",
+                "lat": "55.755864",
+                "lon": "37.617698"
+            },
+            "contact_phone": "+7 (926) 954-74-48",
+            "organization": {
+                "id": "136382",
+                "logo": "https://ucare.timepad.ru/9be0966e-c758-411f-8639-c775675bb0ab/",
+                "name": "ПСО \"ЛизаАлерт\"",
+                "description": "",
+                "pdAddress": "Москва",
+                "pdEmail": "budovaya_anna@mail.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": null
+                    },
+                    {
+                        "name": "telegram",
+                        "url": null
+                    },
+                    {
+                        "name": "instagram",
+                        "url": null
+                    },
+                    {
+                        "name": "web",
+                        "url": null
+                    }
+                ],
+                "subscribers": 25,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+7 (926) 954-74-48"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "18"
+        },
+        {
+            "id": "2907363",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "250",
+            "title": "День молодежи в Бабушкинском парке",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 11:00:00",
+            "endDate": "2024-06-29 21:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://ano-tsentr-sovremennogo-i.timepad.ru/event/oferta/2907363/",
+            "allowRegistration": true,
+            "categories": [
+                "462"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Бабушкинский парк, ул. Менжинского д. 6 стр. 3",
+                "text": "Москва, Бабушкинский парк, ул. Менжинского д. 6 стр. 3",
+                "lat": "55.866697",
+                "lon": "37.682592"
+            },
+            "contact_phone": "+79036896889",
+            "organization": {
+                "id": "151546",
+                "logo": "https://ucare.timepad.ru/7c1695fa-df9c-4c89-b2cc-0a2178744650/-/preview/308x600/-/format/jpeg/",
+                "name": "АНО \"Центр современного искусства \"Терция\"",
+                "description": "",
+                "pdAddress": "129327, г Москва, ул Ленская, д 2/21, помещ II ком 19, 19",
+                "pdEmail": "ana2170@yandex.ru",
+                "inn": "7716924550",
+                "ogrn": "1187700019044",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 2,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79036896889"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "12"
+        },
+        {
+            "id": "2933779",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "196",
+            "title": "Заседание Рабочей группы  Комиссии по развитию креативных индустрий ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": "2024-06-25 13:00:00",
+            "minPrice": null,
+            "maxPrice": null,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://komissiya-po-razvitiyu-kr.timepad.ru/event/oferta/2933779/",
+            "allowRegistration": false,
+            "categories": [
+                "217"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Ильинка, д.6, Малый зал",
+                "text": "Москва, Ильинка, д.6, Малый зал",
+                "lat": "55.754638",
+                "lon": "37.626277"
+            },
+            "contact_phone": "+79037292394",
+            "organization": {
+                "id": "389737",
+                "logo": null,
+                "name": "Комиссия по развитию креативных индустрий Совета ТПП РФ по финансово-промышленной и инвестиционной политике",
+                "description": "",
+                "pdAddress": "Ильинка, 6",
+                "pdEmail": "mar-nest@mail.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": null
+                    },
+                    {
+                        "name": "facebook",
+                        "url": null
+                    },
+                    {
+                        "name": "twitter",
+                        "url": null
+                    },
+                    {
+                        "name": "telegram",
+                        "url": null
+                    },
+                    {
+                        "name": "instagram",
+                        "url": null
+                    },
+                    {
+                        "name": "web",
+                        "url": null
+                    }
+                ],
+                "subscribers": 0,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79037292394"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "18"
+        },
+        {
+            "id": "2932545",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "172",
+            "title": "«Таганские читатели»",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 11:00:00",
+            "endDate": "2024-06-25 12:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://biblioteka-16-event.timepad.ru/event/oferta/2932545/",
+            "allowRegistration": true,
+            "categories": [
+                "379"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Новоспасский пер., д. 5.",
+                "text": "Москва, Новоспасский пер., д. 5.",
+                "lat": "55.733771",
+                "lon": "37.654331"
+            },
+            "contact_phone": "+79687146248",
+            "organization": {
+                "id": "288324",
+                "logo": "https://ucare.timepad.ru/13a2b0b5-0900-405b-9f74-2ffe06555479/-/preview/308x600/-/format/jpeg/",
+                "name": "Библиотека №16",
+                "description": "",
+                "pdAddress": "Новоспасский пер., д 5",
+                "pdEmail": "lib16@list.ru",
+                "inn": null,
+                "ogrn": null,
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/1241f069-e60f-47c8-b7d9-d98a34459843/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_288324.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 30,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79687146248"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "6"
+        },
+        {
+            "id": "2936053",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "62",
+            "title": "Хатха-йога в рамках Дня Молодежи",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 11:15:00",
+            "endDate": "2024-06-29 12:15:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://ano-tsentr-sovremennogo-i.timepad.ru/event/oferta/2936053/",
+            "allowRegistration": true,
+            "categories": [
+                "376"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Ул. Менжинского, 6 стр. 3",
+                "text": "Москва, Ул. Менжинского, 6 стр. 3",
+                "lat": "55.866697",
+                "lon": "37.682592"
+            },
+            "contact_phone": "+79036896889",
+            "organization": {
+                "id": "151546",
+                "logo": "https://ucare.timepad.ru/7c1695fa-df9c-4c89-b2cc-0a2178744650/-/preview/308x600/-/format/jpeg/",
+                "name": "АНО \"Центр современного искусства \"Терция\"",
+                "description": "",
+                "pdAddress": "129327, г Москва, ул Ленская, д 2/21, помещ II ком 19, 19",
+                "pdEmail": "ana2170@yandex.ru",
+                "inn": "7716924550",
+                "ogrn": "1187700019044",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 2,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79036896889"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2936048",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "59",
+            "title": "Зажигательная Зумба в рамках Дня Молодежи",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 11:15:00",
+            "endDate": "2024-06-29 12:15:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://ano-tsentr-sovremennogo-i.timepad.ru/event/oferta/2936048/",
+            "allowRegistration": true,
+            "categories": [
+                "376"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Ул. Менжинского, 6 стр. 3",
+                "text": "Москва, Ул. Менжинского, 6 стр. 3",
+                "lat": "55.866697",
+                "lon": "37.682592"
+            },
+            "contact_phone": "+79036896889",
+            "organization": {
+                "id": "151546",
+                "logo": "https://ucare.timepad.ru/7c1695fa-df9c-4c89-b2cc-0a2178744650/-/preview/308x600/-/format/jpeg/",
+                "name": "АНО \"Центр современного искусства \"Терция\"",
+                "description": "",
+                "pdAddress": "129327, г Москва, ул Ленская, д 2/21, помещ II ком 19, 19",
+                "pdEmail": "ana2170@yandex.ru",
+                "inn": "7716924550",
+                "ogrn": "1187700019044",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": ""
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": ""
+                    },
+                    {
+                        "name": "web",
+                        "url": ""
+                    }
+                ],
+                "subscribers": 2,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79036896889"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2877308",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "13917",
+            "title": "\"Хранители Тишины\", Москва, 29-30 июня 2024 год                                                                                        ",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 12:00:00",
+            "endDate": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://master-class-events.timepad.ru/event/oferta/2877308/",
+            "allowRegistration": false,
+            "categories": [
+                "524"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Старокирочный переулок дом 2, (5 минут  от метро Бауманская)\r\nСтудия \"Лисоборье\"",
+                "text": "Москва, Старокирочный переулок дом 2, (5 минут  от метро Бауманская)\r\nСтудия \"Лисоборье\"",
+                "lat": "55.768527",
+                "lon": "37.680149"
+            },
+            "contact_phone": "+7 (921) 414-13-13",
+            "organization": {
+                "id": "86083",
+                "logo": null,
+                "name": "Master-Class Events",
+                "description": "",
+                "pdAddress": "Россия, 190121, Санкт-Петербург, 190121, ул. Лабутина 30, кв.37",
+                "pdEmail": "iris_smile@rambler.ru",
+                "inn": "782613462992",
+                "ogrn": "310784722300141",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": null
+                    },
+                    {
+                        "name": "facebook",
+                        "url": null
+                    },
+                    {
+                        "name": "twitter",
+                        "url": null
+                    },
+                    {
+                        "name": "telegram",
+                        "url": null
+                    },
+                    {
+                        "name": "instagram",
+                        "url": null
+                    },
+                    {
+                        "name": "web",
+                        "url": null
+                    }
+                ],
+                "subscribers": 7,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+7 (921) 414-13-13"
+            },
+            "isFavorite": false,
+            "order_mail": false,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2930970",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "7194",
+            "title": "Честный диалог с МФЮА для родителей в корпусе Калужский",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-29 12:00:00",
+            "endDate": "2024-06-29 13:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://mfua.timepad.ru/event/oferta/2930970/",
+            "allowRegistration": true,
+            "categories": [
+                "462"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "ул. Введенского, д. 1А",
+                "text": "Москва, ул. Введенского, д. 1А",
+                "lat": "55.648280",
+                "lon": "37.549777"
+            },
+            "contact_phone": "+74952211001",
+            "organization": {
+                "id": "13610",
+                "logo": "https://ucare.timepad.ru/4eb25e13-ee4c-4f0c-90db-ddc466402a4e/-/preview/308x600/-/format/jpeg/",
+                "name": "МФЮА",
+                "description": "Московский финансово-юридический университет МФЮА – научно-образовательный комплекс по подготовке специалистов для современного рынка труда. В МФЮА реализуется система интегрированного образования от школьной скамьи до ученой степени, подкрепленная качественной научно-практической базой и мощным имущественным комплексом. МФЮА имеет лицензию на осуществление образовательной деятельности и государственную аккредитацию. Ежегодно вузу выделяются бюджетные места на самые востребованные специальности.",
+                "pdAddress": "115191, г Москва, ул Серпуховский Вал, д 17 к 1",
+                "pdEmail": "karzinkin.d@mfua.ru",
+                "inn": "7725082902",
+                "ogrn": "1027739751346",
+                "workingTime": "10:00 - 18:00",
+                "shareLink": null,
+                "poster": null,
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": "https://vk.com/mfua_mos"
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/mfua.ru"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": "https://t.me/info_MFUA"
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/mfua_life/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://www.mfua.ru/"
+                    }
+                ],
+                "subscribers": 40,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+74952211001"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "18"
+        },
+        {
+            "id": "2929801",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "4988",
+            "title": "✨Выявление негативных подсознательных программ, тормозящих ваш успех и изменения",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 12:00:00",
+            "endDate": "2024-06-27 21:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://centeralternativ.timepad.ru/event/oferta/2929801/",
+            "allowRegistration": true,
+            "categories": [
+                "217",
+                "453"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Большая Якиманка 38, 2 подъезд",
+                "text": "Москва, Большая Якиманка 38, 2 подъезд",
+                "lat": "55.734790",
+                "lon": "37.611437"
+            },
+            "contact_phone": "+79150001751",
+            "organization": {
+                "id": "23595",
+                "logo": "https://ucare.timepad.ru/102177d7-1623-491e-8ca1-55685d24da5d/",
+                "name": "Синергия \"Центр Альтернатив\"",
+                "description": "Лучшая тренинговая и оздоровительная компания Москвы и России в 2014-24 гг. (рейтинг портала Самопознание.ру). Рады поделиться с вами нашими знаниями и умениями. Ждём вас в позитивном пространстве Центра Альтернатив.",
+                "pdAddress": "Москва, Костянский пер, д 13",
+                "pdEmail": "alternativecentergroup@gmail.com",
+                "inn": "7708260256",
+                "ogrn": "1157700009807",
+                "workingTime": "12:00 - 21:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/3d5d95b1-b478-478d-a360-af88b75b0b8d/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_23595.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/CenterAlternativ"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/centeralternative/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://ceal.info/"
+                    }
+                ],
+                "subscribers": 122,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79150001751"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2929804",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "4867",
+            "title": "✨Диагностика энергетического баланса и выявление негативных программ в отношениях и реализации",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 12:00:00",
+            "endDate": "2024-06-27 21:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://centeralternativ.timepad.ru/event/oferta/2929804/",
+            "allowRegistration": true,
+            "categories": [
+                "217",
+                "453"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Большая Якиманка 38, 2 подъезд",
+                "text": "Москва, Большая Якиманка 38, 2 подъезд",
+                "lat": "55.734790",
+                "lon": "37.611437"
+            },
+            "contact_phone": "+79150001751",
+            "organization": {
+                "id": "23595",
+                "logo": "https://ucare.timepad.ru/102177d7-1623-491e-8ca1-55685d24da5d/",
+                "name": "Синергия \"Центр Альтернатив\"",
+                "description": "Лучшая тренинговая и оздоровительная компания Москвы и России в 2014-24 гг. (рейтинг портала Самопознание.ру). Рады поделиться с вами нашими знаниями и умениями. Ждём вас в позитивном пространстве Центра Альтернатив.",
+                "pdAddress": "Москва, Костянский пер, д 13",
+                "pdEmail": "alternativecentergroup@gmail.com",
+                "inn": "7708260256",
+                "ogrn": "1157700009807",
+                "workingTime": "12:00 - 21:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/3d5d95b1-b478-478d-a360-af88b75b0b8d/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_23595.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/CenterAlternativ"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/centeralternative/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://ceal.info/"
+                    }
+                ],
+                "subscribers": 122,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79150001751"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2929809",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "4863",
+            "title": "✨Сеанс эмоционального и ментального баланса в Зеркале Козырева",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 12:00:00",
+            "endDate": "2024-06-27 21:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://centeralternativ.timepad.ru/event/oferta/2929809/",
+            "allowRegistration": true,
+            "categories": [
+                "217",
+                "453"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Большая Якиманка 38, 2 подъезд",
+                "text": "Москва, Большая Якиманка 38, 2 подъезд",
+                "lat": "55.734790",
+                "lon": "37.611437"
+            },
+            "contact_phone": "+79150001751",
+            "organization": {
+                "id": "23595",
+                "logo": "https://ucare.timepad.ru/102177d7-1623-491e-8ca1-55685d24da5d/",
+                "name": "Синергия \"Центр Альтернатив\"",
+                "description": "Лучшая тренинговая и оздоровительная компания Москвы и России в 2014-24 гг. (рейтинг портала Самопознание.ру). Рады поделиться с вами нашими знаниями и умениями. Ждём вас в позитивном пространстве Центра Альтернатив.",
+                "pdAddress": "Москва, Костянский пер, д 13",
+                "pdEmail": "alternativecentergroup@gmail.com",
+                "inn": "7708260256",
+                "ogrn": "1157700009807",
+                "workingTime": "12:00 - 21:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/3d5d95b1-b478-478d-a360-af88b75b0b8d/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_23595.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/CenterAlternativ"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/centeralternative/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://ceal.info/"
+                    }
+                ],
+                "subscribers": 122,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79150001751"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        },
+        {
+            "id": "2929819",
+            "parentId": "",
+            "status": "ok",
+            "recurringStatus": "ok",
+            "hits": "3399",
+            "title": "✨Оценка состояния и психосоматики позвоночника с подбором упражнений",
+            "isAdvertisement": false,
+            "isRepeated": false,
+            "GAID": null,
+            "startDate": "2024-06-25 12:00:00",
+            "endDate": "2024-06-27 21:00:00",
+            "minPrice": 0,
+            "maxPrice": 0,
+            "ordersNumber": 0,
+            "ticketsNumber": 0,
+            "repeatedData": {
+                "count": null,
+                "nearest": null,
+                "furthest": null
+            },
+            "ofertaLink": "https://centeralternativ.timepad.ru/event/oferta/2929819/",
+            "allowRegistration": true,
+            "categories": [
+                "399",
+                "453"
+            ],
+            "address": {
+                "city": "Москва",
+                "street": "Большая Якиманка 38, 2 подъезд",
+                "text": "Москва, Большая Якиманка 38, 2 подъезд",
+                "lat": "55.734790",
+                "lon": "37.611437"
+            },
+            "contact_phone": "+79150001751",
+            "organization": {
+                "id": "23595",
+                "logo": "https://ucare.timepad.ru/102177d7-1623-491e-8ca1-55685d24da5d/",
+                "name": "Синергия \"Центр Альтернатив\"",
+                "description": "Лучшая тренинговая и оздоровительная компания Москвы и России в 2014-24 гг. (рейтинг портала Самопознание.ру). Рады поделиться с вами нашими знаниями и умениями. Ждём вас в позитивном пространстве Центра Альтернатив.",
+                "pdAddress": "Москва, Костянский пер, д 13",
+                "pdEmail": "alternativecentergroup@gmail.com",
+                "inn": "7708260256",
+                "ogrn": "1157700009807",
+                "workingTime": "12:00 - 21:00",
+                "shareLink": null,
+                "poster": "https://ucare.timepad.ru/3d5d95b1-b478-478d-a360-af88b75b0b8d/-/preview/308x600/-/format/jpeg/-/format/jpeg/poster_org_23595.jpg",
+                "socials": [
+                    {
+                        "name": "vk",
+                        "url": ""
+                    },
+                    {
+                        "name": "facebook",
+                        "url": "https://www.facebook.com/CenterAlternativ"
+                    },
+                    {
+                        "name": "twitter",
+                        "url": ""
+                    },
+                    {
+                        "name": "telegram",
+                        "url": ""
+                    },
+                    {
+                        "name": "instagram",
+                        "url": "https://www.instagram.com/centeralternative/"
+                    },
+                    {
+                        "name": "web",
+                        "url": "https://ceal.info/"
+                    }
+                ],
+                "subscribers": 122,
+                "eventCount": null,
+                "isFavorite": false,
+                "contact_phone": "+79150001751"
+            },
+            "isFavorite": false,
+            "order_mail": null,
+            "rating": null,
+            "startDateUnknown": false,
+            "ageLimit": "16"
+        }
+    ]
+}
