@@ -1,0 +1,100 @@
+{
+    "cities": [
+        {
+            "id": 4400,
+            "title": "Москва",
+            "alias": "moscow",
+            "type": "city"
+        },
+        {
+            "id": 4962,
+            "title": "Санкт-Петербург",
+            "alias": "saint-petersburg",
+            "type": "city"
+        },
+        {
+            "id": 5106,
+            "title": "Екатеринбург",
+            "alias": "ekaterinburg",
+            "type": "city"
+        },
+        {
+            "id": 5269,
+            "title": "Казань",
+            "alias": "kazan",
+            "type": "city"
+        },
+        {
+            "id": 3770,
+            "title": "Калининград",
+            "alias": "kaliningrad",
+            "type": "city"
+        },
+        {
+            "id": 3612,
+            "title": "Нижний Новгород",
+            "alias": "nizhniy-novgorod",
+            "type": "city"
+        },
+        {
+            "id": 4094,
+            "title": "Сочи",
+            "alias": "sochi",
+            "type": "city"
+        },
+        {
+            "id": 5352,
+            "title": "Тула",
+            "alias": "tula",
+            "type": "city"
+        },
+        {
+            "id": 5646,
+            "title": "Ярославль",
+            "alias": "yaroslavl",
+            "type": "city"
+        },
+        {
+            "id": 3159,
+            "title": "Россия",
+            "alias": "russia",
+            "type": "country"
+        },
+        {
+            "id": 15789521,
+            "title": "Онлайн",
+            "alias": "online",
+            "type": "city"
+        }
+    ],
+    "prices": [
+        {
+            "id": "free",
+            "title": "Бесплатно",
+            "min": 0,
+            "max": 0,
+            "sortOrder": 100
+        },
+        {
+            "id": "lt1000",
+            "title": "до  1000 ₽",
+            "min": 0,
+            "max": 1000,
+            "sortOrder": 200
+        },
+        {
+            "id": "lt5000",
+            "title": "до 5000 ₽",
+            "min": 0,
+            "max": 5000,
+            "sortOrder": 300
+        },
+        {
+            "id": "gt5000",
+            "title": "5000+ ₽",
+            "min": 5001,
+            "max": 2147483647,
+            "sortOrder": 400
+        }
+    ]
+}
